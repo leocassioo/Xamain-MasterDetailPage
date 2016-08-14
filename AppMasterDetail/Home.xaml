@@ -4,6 +4,6 @@
 		x:Class="AppMasterDetail.Home">
 
 
-	<Label Text="Home" />
+	<Label Text="Home" FontSize="40" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
 	
 </ContentPage>
